@@ -86,28 +86,28 @@
   {
     "_id": "e51ef2a0-fa91-4e47-8721-586749010799",
     "function": "Recover",
-    "category": null,
+    "category": "Roles, Responsibilities, and Authorities",
     "subcategory_code": "GV.RR-01",
     "description": "Organizational leadership is responsible and accountable for cybersecurity risk and fosters a culture that is risk-aware, ethical, and continually improving"
   },
   {
     "_id": "d5d9423e-85b9-4ffa-bfe1-23b75cc49131",
     "function": "Recover",
-    "category": null,
+    "category": "Roles, Responsibilities, and Authorities",
     "subcategory_code": "GV.RR-02",
     "description": "Roles, responsibilities, and authorities related to cybersecurity risk management are established, communicated, understood, and enforced"
   },
   {
     "_id": "9e12e4df-64fe-4db2-8498-604b969d6db8",
     "function": "Recover",
-    "category": null,
+    "category": "Roles, Responsibilities, and Authorities",
     "subcategory_code": "GV.RR-03",
     "description": "Adequate resources are allocated commensurate with the cybersecurity risk strategy, roles, responsibilities, and policies"
   },
   {
     "_id": "7b464ff1-07e7-43c2-b0c9-12d585c13bd0",
     "function": "Recover",
-    "category": null,
+    "category": "Roles, Responsibilities, and Authorities",
     "subcategory_code": "GV.RR-04",
     "description": "Cybersecurity is included in human resources practices Policy Organizational cybersecurity policy is established, communicated, and enforced"
   },
@@ -128,91 +128,91 @@
   {
     "_id": "bd7a783c-d440-4bc6-84ae-e095b4c806c1",
     "function": "Recover",
-    "category": null,
+    "category": "Oversight",
     "subcategory_code": "GV.OV-01",
     "description": "Cybersecurity risk management strategy outcomes are reviewed to inform and adjust strategy and direction"
   },
   {
     "_id": "349b5990-c070-448e-b4ce-deb8fe2c0b33",
     "function": "Recover",
-    "category": null,
+    "category": "Oversight",
     "subcategory_code": "GV.OV-02",
     "description": "The cybersecurity risk management strategy is reviewed and adjusted to ensure coverage of organizational requirements and risks"
   },
   {
     "_id": "e81629ef-b49c-4e36-8d2b-30d1b8f8de45",
     "function": "Recover",
-    "category": null,
+    "category": "Oversight",
     "subcategory_code": "GV.OV-03",
     "description": "Organizational cybersecurity risk management performance is evaluated and reviewed for adjustments needed Cybersecurity Supply Chain Risk Management Cyber supply chain risk management processes are identified, established, managed, monitored, and improved by organizational stakeholders"
   },
   {
     "_id": "36ff4bf8-aa62-42ad-a5a5-27a0d52f6bd1",
     "function": "Recover",
-    "category": null,
+    "category": "Cybersecurity Supply Chain Risk Management",
     "subcategory_code": "GV.SC-01",
     "description": "A cybersecurity supply chain risk management program, strategy, objectives, policies, and processes are established and agreed to by organizational stakeholders"
   },
   {
     "_id": "4f28c980-909e-4d59-b1dc-233caee7ef1c",
     "function": "Recover",
-    "category": null,
+    "category": "Cybersecurity Supply Chain Risk Management",
     "subcategory_code": "GV.SC-02",
     "description": "Cybersecurity roles and responsibilities for suppliers, customers, and partners are established, communicated, and coordinated internally and externally"
   },
   {
     "_id": "c27ff9b2-5f3f-4b5d-b8ca-81de73f8f9cd",
     "function": "Recover",
-    "category": null,
+    "category": "Cybersecurity Supply Chain Risk Management",
     "subcategory_code": "GV.SC-03",
     "description": "Cybersecurity supply chain risk management is integrated into cybersecurity and enterprise risk management, risk assessment, and improvement processes"
   },
   {
     "_id": "76418d3f-5e03-4814-82b9-0c7788e699ee",
     "function": "Recover",
-    "category": null,
+    "category": "Cybersecurity Supply Chain Risk Management",
     "subcategory_code": "GV.SC-04",
     "description": "Suppliers are known and prioritized by criticality"
   },
   {
     "_id": "fb88a044-2623-4bab-9cd4-e372ab0e0579",
     "function": "Recover",
-    "category": null,
+    "category": "Cybersecurity Supply Chain Risk Management",
     "subcategory_code": "GV.SC-05",
     "description": "Requirements to address cybersecurity risks in supply chains are established, prioritized, and integrated into contracts and other types of agreements with suppliers and other relevant third parties"
   },
   {
     "_id": "b8a52f03-c022-4d52-b977-559c582b9318",
     "function": "Recover",
-    "category": null,
+    "category": "Cybersecurity Supply Chain Risk Management",
     "subcategory_code": "GV.SC-06",
     "description": "Planning and due diligence are performed to reduce risks before entering into formal supplier or other third-party relationships"
   },
   {
     "_id": "f631b0a7-20bf-42ff-a083-9543113fa3c1",
     "function": "Recover",
-    "category": null,
+    "category": "Cybersecurity Supply Chain Risk Management",
     "subcategory_code": "GV.SC-07",
     "description": "The risks posed by a supplier, their products and services, and other third parties are understood, recorded, prioritized, assessed, responded to, and monitored over the course of the relationship"
   },
   {
     "_id": "8399a468-c3d6-4417-be3e-30bf472afb68",
     "function": "Recover",
-    "category": null,
+    "category": "Cybersecurity Supply Chain Risk Management",
     "subcategory_code": "GV.SC-08",
     "description": "Relevant suppliers and other third parties are included in incident planning, response, and recovery activities"
   },
   {
     "_id": "267af7eb-eb0b-46b4-87ba-2de5fb05fa3c",
     "function": "Recover",
-    "category": null,
+    "category": "Cybersecurity Supply Chain Risk Management",
     "subcategory_code": "GV.SC-09",
     "description": "Supply chain security practices are integrated into cybersecurity and enterprise risk management programs, and their performance is monitored throughout the technology product and service life cycle"
   },
   {
     "_id": "ffed153e-872a-4c30-80ad-f2f57f84db7e",
     "function": "Recover",
-    "category": null,
+    "category": "Cybersecurity Supply Chain Risk Management",
     "subcategory_code": "GV.SC-10",
     "description": "Cybersecurity supply chain risk management plans include provisions for activities that occur after the conclusion of a partnership or service agreement"
   },
@@ -366,42 +366,42 @@
   {
     "_id": "6693d05d-2837-4d4a-a264-63ee90461d2f",
     "function": "Protect",
-    "category": null,
+    "category": "Identity Management, Authentication, and Access Control",
     "subcategory_code": "PR.AA-01",
     "description": "Identities and credentials for authorized users, services, and hardware are managed by the organization"
   },
   {
     "_id": "20384566-33fc-4c9b-a590-1cad209bd772",
     "function": "Protect",
-    "category": null,
+    "category": "Identity Management, Authentication, and Access Control",
     "subcategory_code": "PR.AA-02",
     "description": "Identities are proofed and bound to credentials based on the context of interactions"
   },
   {
     "_id": "e2c332cd-b153-4586-bc36-4c4bb27732e3",
     "function": "Protect",
-    "category": null,
+    "category": "Identity Management, Authentication, and Access Control",
     "subcategory_code": "PR.AA-03",
     "description": "Users, services, and hardware are authenticated"
   },
   {
     "_id": "be4adfe6-ce5a-4a02-b0a6-28fda7d6936e",
     "function": "Protect",
-    "category": null,
+    "category": "Identity Management, Authentication, and Access Control",
     "subcategory_code": "PR.AA-04",
     "description": "Identity assertions are protected, conveyed, and verified"
   },
   {
     "_id": "05ad59dc-faf4-42c8-93e9-a94a5a6cc09a",
     "function": "Protect",
-    "category": null,
+    "category": "Identity Management, Authentication, and Access Control",
     "subcategory_code": "PR.AA-05",
     "description": "Access permissions, entitlements, and authorizations are defined in a policy, managed, enforced, and reviewed, and incorporate the principles of least privilege and separation of duties"
   },
   {
     "_id": "4caef594-b6cc-46c5-875a-88829b1f81dc",
     "function": "Protect",
-    "category": null,
+    "category": "Identity Management, Authentication, and Access Control",
     "subcategory_code": "PR.AA-06",
     "description": "Physical access to assets is managed, monitored, and enforced commensurate with risk Awareness and Training The organization’s personnel are provided with cybersecurity awareness and training so that they can perform their cybersecurity-related tasks"
   },
@@ -450,70 +450,70 @@
   {
     "_id": "a7bc8155-0987-4f01-9352-3d5f2f1a7557",
     "function": "Protect",
-    "category": null,
+    "category": "Platform Security",
     "subcategory_code": "PR.PS-01",
     "description": "Configuration management practices are established and applied"
   },
   {
     "_id": "9382aac9-f9e0-4649-aee6-1980daddbaab",
     "function": "Protect",
-    "category": null,
+    "category": "Platform Security",
     "subcategory_code": "PR.PS-02",
     "description": "Software is maintained, replaced, and removed commensurate with risk"
   },
   {
     "_id": "b9663a1a-4e69-46ea-9db2-d952ef9d8ec8",
     "function": "Protect",
-    "category": null,
+    "category": "Platform Security",
     "subcategory_code": "PR.PS-03",
     "description": "Hardware is maintained, replaced, and removed commensurate with risk"
   },
   {
     "_id": "ed5b8259-b424-4244-9968-fa97e2eada6a",
     "function": "Protect",
-    "category": null,
+    "category": "Platform Security",
     "subcategory_code": "PR.PS-04",
     "description": "Log records are generated and made available for continuous monitoring"
   },
   {
     "_id": "d1631e90-af91-492d-81a8-dc0edb0fcc3b",
     "function": "Protect",
-    "category": null,
+    "category": "Platform Security",
     "subcategory_code": "PR.PS-05",
     "description": "Installation and execution of unauthorized software are prevented"
   },
   {
     "_id": "89b57e62-5994-4f33-99a8-118edfe80155",
     "function": "Protect",
-    "category": null,
+    "category": "Platform Security",
     "subcategory_code": "PR.PS-06",
     "description": "Secure software development practices are integrated, and their performance is monitored throughout the software development life cycle Technology Infrastructure Resilience Security architectures are managed with the organization’s risk strategy to protect asset confidentiality, integrity, and availability, and organizational resilience"
   },
   {
     "_id": "4b0b048f-6e94-4dc5-852e-614954198307",
     "function": "Protect",
-    "category": null,
+    "category": "Technology Infrastructure Resilience",
     "subcategory_code": "PR.IR-01",
     "description": "Networks and environments are protected from unauthorized logical access and usage"
   },
   {
     "_id": "0c2c7e75-1632-4a1d-bf92-01830cc9a118",
     "function": "Protect",
-    "category": null,
+    "category": "Technology Infrastructure Resilience",
     "subcategory_code": "PR.IR-02",
     "description": "The organization’s technology assets are protected from environmental threats"
   },
   {
     "_id": "5fe731af-4d71-4f25-9152-c3141ecc9c3e",
     "function": "Protect",
-    "category": null,
+    "category": "Technology Infrastructure Resilience",
     "subcategory_code": "PR.IR-03",
     "description": "Mechanisms are implemented to achieve resilience requirements in normal and adverse situations"
   },
   {
     "_id": "182094fa-5284-4cbc-b818-d97a6cc6ab03",
     "function": "Protect",
-    "category": null,
+    "category": "Technology Infrastructure Resilience",
     "subcategory_code": "PR.IR-04",
     "description": "Adequate resource capacity to ensure availability is maintained"
   },
@@ -597,35 +597,35 @@
   {
     "_id": "8a085ffd-9d67-4856-b702-da644775317d",
     "function": "Respond",
-    "category": null,
+    "category": "Incident Management",
     "subcategory_code": "RS.MA-01",
     "description": "The incident response plan is executed in coordination with relevant third parties once an incident is declared"
   },
   {
     "_id": "68e9b0f9-232d-46a0-9f47-a655f9e9ea27",
     "function": "Respond",
-    "category": null,
+    "category": "Incident Management",
     "subcategory_code": "RS.MA-02",
     "description": "Incident reports are triaged and validated"
   },
   {
     "_id": "7a5ca5e5-42c7-44e5-9c92-a1c0e7b79853",
     "function": "Respond",
-    "category": null,
+    "category": "Incident Management",
     "subcategory_code": "RS.MA-03",
     "description": "Incidents are categorized and prioritized"
   },
   {
     "_id": "1e231b45-5958-4b69-b39d-4ecda9c2211c",
     "function": "Respond",
-    "category": null,
+    "category": "Incident Management",
     "subcategory_code": "RS.MA-04",
     "description": "Incidents are escalated or elevated as needed"
   },
   {
     "_id": "a5e8e6f0-bf9f-4e2a-8af2-a79ac3495978",
     "function": "Respond",
-    "category": null,
+    "category": "Incident Management",
     "subcategory_code": "RS.MA-05",
     "description": "The criteria for initiating incident recovery are applied Incident Analysis Investigations are conducted to ensure effective response and support forensics and recovery activities"
   },
